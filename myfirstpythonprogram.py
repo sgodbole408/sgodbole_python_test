@@ -5,5 +5,5 @@ print("Cloned the repo")
 print("Connected to Docker")
 print("New Docker Build")
 print("Docker Build")
-print"Test")
+print("Test")
 
